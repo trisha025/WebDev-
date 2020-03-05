@@ -1,0 +1,9 @@
+body {
+    font-family: Calibri;
+}
+
+.cities {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}

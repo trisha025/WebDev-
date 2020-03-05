@@ -1,0 +1,28 @@
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
+}
+
+p {
+    color: red;
+    font-size: 100%;
+    font-family: Helvetica;
+    border: 1px solid red;
+    padding: 30px;
+    margin: 50px;
+}
+#trisha {
+    color: aquamarine;
+}
+
+p.error {
+    color: green;
+}
+
+img {
+    width: 100%;
+}
